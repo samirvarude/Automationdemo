@@ -5,6 +5,10 @@ public class Searchpage {
 	{
 		System.out.println("Searchpage");
 	}
+	public void mytesting()
+	{
+		System.out.println("This is interesting");
+	}
 	
 
 }
